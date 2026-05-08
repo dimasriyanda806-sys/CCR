@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "CCR": {
+      "hwid": "218250A51DAC6E65",
+      "expireDate": "Life",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
