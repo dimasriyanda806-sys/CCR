@@ -41,7 +41,7 @@
     "CCR": {
       "hwid": "218250A51DAC6E65",
       "expireDate": "Life",
-      "isBanned": false,
+      "isBanned": true,
       "banReason": "",
       "userRank": "Supreme User"
     }
